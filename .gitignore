@@ -1,0 +1,15 @@
+# Build / IDE
+target/
+.idea/
+*.iml
+.vscode/
+
+# Reports (generated; CI publishes them)
+allure-results/
+allure-report/
+test-output/
+
+# Secrets — never commit
+config.properties
+.env
+*.local.json

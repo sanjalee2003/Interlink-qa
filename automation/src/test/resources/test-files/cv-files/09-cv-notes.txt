@@ -1,0 +1,18 @@
+Nimal Perera (FICTIONAL TEST CANDIDATE)
+Email: interlinkqa+candidate@gmail.com | Phone: +94 70 000 0000 | Colombo
+
+PROFILE
+Junior Java developer with experience in Spring Boot, REST APIs and PostgreSQL.
+
+SKILLS
+Java 21, Spring Boot, React, PostgreSQL, Git, Docker, JUnit, Postman
+
+EXPERIENCE
+Software Engineering Intern - Example Tech (Pvt) Ltd, 2025 - 2026
+- Built REST endpoints for an inventory system using Spring Boot
+- Wrote unit tests with JUnit and Mockito
+
+EDUCATION
+BSc (Hons) Software Engineering - Example University, 2023 - 2027
+
+This document is synthetic test data for InterLink QA. No real person.
